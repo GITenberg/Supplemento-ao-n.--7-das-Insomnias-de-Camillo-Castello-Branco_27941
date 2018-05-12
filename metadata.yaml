@@ -1,0 +1,24 @@
+_repo: Supplemento-ao-n.--7-das-Insomnias-de-Camillo-Castello-Branco_27941
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moraes, Anselmo de
+    alias: Morais, Anselmo de
+    gutenberg_agent_id: '33029'
+    url: http://www.gutenberg.org/2009/agents/33029
+description: ''
+gutenberg_issued: '2009-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27941'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+title: Supplemento ao n.º 7 das Insomnias de Camillo Castello Branco
+url: http://www.gutenberg.org/ebooks/27941
